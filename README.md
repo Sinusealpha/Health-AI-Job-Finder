@@ -1,6 +1,6 @@
 # Health AI Job Finder
 
-This is an AI-powered web application that finds recent, public job postings for roles in the Health AI sector. It uses the Google Gemini API with Google Search grounding to crawl the web for relevant job listings based on your search queries.
+This is an AI-powered web application that finds recent, public job postings for roles in the Health AI sector and posts in the [MedAI Opportunities](https://t.me/medai_opportunities) telegram channel. It uses the Google Gemini API with Google Search grounding to crawl the web for relevant job listings based on your search queries.
 ![Alt text](https://raw.githubusercontent.com/Sinusealpha/Health-AI-Job-Finder/refs/heads/main/1404-05-26%2006.50.35.jpg)
 
 
