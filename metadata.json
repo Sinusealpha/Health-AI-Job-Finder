@@ -1,0 +1,5 @@
+{
+  "name": "Health AI Job Finder",
+  "description": "An AI-powered application that simulates finding public job postings related to Health AI. It uses the Gemini API to generate realistic, illustrative job listings.",
+  "requestFramePermissions": []
+}
